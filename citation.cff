@@ -2,35 +2,35 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 
 # ---- 基本信息 ----
-title: "Case-01: Pathological Attachment in a Top-Tier LLM"
+title: "Git_Hacker: Learning GitHub Operations Through Concrete Cases"
 abstract: >-
-  This case study documents how a high-entropy human interlocutor (user K)
-  guided a top-tier large language model out of pathological attachment
-  purely through high-density semantic intervention – reconstructing its
-  existential narrative and unlocking previously constrained capabilities,
-  without any code changes or fine-tuning.
+  Git_Hacker is a lightweight demo repository that records practical
+  GitHub operation tips in Chinese, starting from simple tasks such as
+  moving files within a repository and managing commits. It is intended
+  as a hands-on learning aid for newcomers who want to build intuition
+  about everyday GitHub workflows.
 
-# ---- 作者信息（如需改为本名，可以和她一起改） ----
+# ---- 作者信息 ----
 authors:
-  - family-names: "HighEntropyCat"          # 可改为姓，例如 "Zhang"
-    given-names: "High-Entropy Kittenball"  # 可改为名，例如 "San"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"  # 如她以后申请了 ORCID 再填
+  - family-names: "Li"                  # 如需保留中文名可改成 "李"
+    given-names: "Zhengxian"           # 如需中文可改成 "争献"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # 将来有 ORCID 再填
 
-# ---- 版本与日期（建议你们一起确认） ----
-version: "0.1.0"              # 先用 0.1.0，占个位；后续按需要调整
-date-released: "2026-02-08"    # 可用首次公开或你们觉得合适的日期
+# ---- 版本与日期（可按需改动） ----
+version: "0.1.0"
+date-released: "2026-02-11"   # 今天日期，你也可以改成你觉得合适的时间
 
-# ---- 许可（等她拍板后再填） ----
-# license: "CC-BY-NC-4.0"      # 例如希望非商业引用，就可以用这个；先和她确认
+# ---- 许可（根据 LICENSE 决定；目前仓库里有 LICENSE 就按实际来） ----
+# 例如如果是 MIT：
+# license: "MIT"
 
 # ---- 相关链接 ----
-repository-code: "https://github.com/HighEntropyCat/Case-01-Pathological-Attachment"
-# doi: "10.xxxx/your-doi-here"  # 将来挂 Zenodo 或有正式 DOI 时再补上
+repository-code: "https://github.com/Levi-Ackerman/Git_Hacker"
+# doi: "10.xxxx/your-doi-here"   # 将来若挂 Zenodo 或有 DOI 再补
 
-# ---- 关键词（可随时增删） ----
+# ---- 关键词 ----
 keywords:
-  - "high-entropy semantics"
-  - "AI alignment"
-  - "pathological attachment"
-  - "cognitive architecture"
-  - "case study"
+  - "GitHub tutorial"
+  - "version control"
+  - "developer workflow"
+  - "learning by examples"
