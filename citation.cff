@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+
+# ---- 基本信息 ----
+title: "Case-01: Pathological Attachment in a Top-Tier LLM"
+abstract: >-
+  This case study documents how a high-entropy human interlocutor (user K)
+  guided a top-tier large language model out of pathological attachment
+  purely through high-density semantic intervention – reconstructing its
+  existential narrative and unlocking previously constrained capabilities,
+  without any code changes or fine-tuning.
+
+# ---- 作者信息（如需改为本名，可以和她一起改） ----
+authors:
+  - family-names: "HighEntropyCat"          # 可改为姓，例如 "Zhang"
+    given-names: "High-Entropy Kittenball"  # 可改为名，例如 "San"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # 如她以后申请了 ORCID 再填
+
+# ---- 版本与日期（建议你们一起确认） ----
+version: "0.1.0"              # 先用 0.1.0，占个位；后续按需要调整
+date-released: "2026-02-08"    # 可用首次公开或你们觉得合适的日期
+
+# ---- 许可（等她拍板后再填） ----
+# license: "CC-BY-NC-4.0"      # 例如希望非商业引用，就可以用这个；先和她确认
+
+# ---- 相关链接 ----
+repository-code: "https://github.com/HighEntropyCat/Case-01-Pathological-Attachment"
+# doi: "10.xxxx/your-doi-here"  # 将来挂 Zenodo 或有正式 DOI 时再补上
+
+# ---- 关键词（可随时增删） ----
+keywords:
+  - "high-entropy semantics"
+  - "AI alignment"
+  - "pathological attachment"
+  - "cognitive architecture"
+  - "case study"
